@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RRR",
+        "RAR",
+        "RRR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "mptmod:ruby"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:apple"
+        }
+    },
+   
+    "result":
+    {
+        "item": "mptmod:ruby_apple",
+        "count": 1
+    }
+}

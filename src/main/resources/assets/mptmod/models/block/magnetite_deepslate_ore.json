@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mptmod:block/magnetite_deepslate_ore"
+  }
+}

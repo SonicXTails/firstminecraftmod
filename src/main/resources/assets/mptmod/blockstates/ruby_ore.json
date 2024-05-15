@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "mptmod:block/ruby_ore"}
+  }
+}

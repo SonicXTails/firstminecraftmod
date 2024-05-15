@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "ruby",
+  "ingredient": {
+    "item": "mptmod:ruby_ore"
+  },
+  "result": "mptmod:ruby"
+}

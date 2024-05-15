@@ -1,0 +1,18 @@
+{
+  "itemGroup.Mpt tab": "МПТ модекс",
+
+  "item.mptmod.key": "Ключ",
+
+  "item.mptmod.ruby": "Рубин",
+  "block.mptmod.ruby_ore": "Рубиновая руда",
+  "block.mptmod.ruby_block": "Рубиновый блок",
+
+  "item.mptmod.magnetite_crystal": "Магнетитовый кристал",
+  "item.mptmod.magnetite_steel_ingot": "Магнетитовый слиток",
+  "block.mptmod.magnetite_ore": "Магнетитовая руда",
+  "block.mptmod.magnetite_deepslate_ore": "Магнетитовый сланец",
+  "block.mptmod.magnetite_crystal_block": "Магнетитово-кристальный блок",
+  "block.mptmod.magnetite_steel_block": "Магнетитовый блок",
+
+  "item.mptmod.ruby_multitool": "Рубиновый мультитул"
+}

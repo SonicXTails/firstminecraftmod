@@ -1,0 +1,36 @@
+{
+  "itemGroup.Mpt tab": "Mpt mod",
+
+  "item.mptmod.key": "Key",
+
+  "item.mptmod.ruby": "Ruby",
+  "block.mptmod.ruby_ore": "Ruby Ore",
+  "block.mptmod.ruby_block": "Ruby Block",
+
+  "item.mptmod.magnetite_crystal": "Magnetite Crystal",
+  "item.mptmod.magnetite_steel_ingot": "Magnetite steel",
+  "block.mptmod.magnetite_ore": "Magnetite Ore",
+  "block.mptmod.magnetite_deepslate_ore": "Magnetite Deep Slate",
+  "block.mptmod.magnetite_crystal_block": "Magnetite Crystal Block",
+  "block.mptmod.magnetite_steel_block": "Magnetite Steel Block",
+
+  "item.mptmod.ruby_nugget": "Ruby Nugget",
+
+
+  "item.mptmod.ruby_sword": "Ruby Sword",
+  "item.mptmod.ruby_shovel": "Ruby Shovel",
+  "item.mptmod.ruby_pickaxe": "Ruby Pickaxe",
+  "item.mptmod.ruby_axe": "Ruby Axe",
+  "item.mptmod.ruby_hoe": "Ruby Hoe",
+
+  "item.mptmod.ruby_helmet": "Ruby Helmet",
+  "item.mptmod.ruby_chestplate": "Ruby Chestplate",
+  "item.mptmod.ruby_leggings": "Ruby Leggings",
+  "item.mptmod.ruby_boots": "Ruby Boots",
+
+
+  "item.mptmod.ruby_apple": "Ruby Apple",
+  "item.mptmod.ruby_steak": "Ruby Steak",
+
+  "item.mptmod.ruby_multitool": "Ruby MultiTool"
+}

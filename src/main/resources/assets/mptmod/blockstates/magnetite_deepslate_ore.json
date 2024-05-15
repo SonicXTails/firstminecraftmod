@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "mptmod:block/magnetite_deepslate_ore"}
+  }
+}

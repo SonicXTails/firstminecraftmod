@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "ASP",
+    " #H",
+    " ! "
+  ],
+
+  "key":
+  {
+    "A":
+    {
+      "item": "mptmod:ruby_axe"
+    },
+    "S":
+    {
+      "item": "mptmod:ruby_sword"
+    },
+    "P":
+    {
+     "item": "mptmod:ruby_pickaxe"
+    },
+    "#":
+    {
+      "item": "minecraft:stick"
+    },
+    "!":
+    {
+      "item": "mptmod:ruby_shovel"
+    },
+    "H":
+    {
+      "item": "mptmod:ruby_hoe"
+    }
+  },
+
+  "result":
+  {
+    "item": "mptmod:ruby_multitool",
+    "count": 1
+  }
+}

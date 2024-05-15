@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RRR",
+        "RSR",
+        "RRR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "mptmod:ruby"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:cooked_beef"
+        }
+    },
+   
+    "result":
+    {
+        "item": "mptmod:ruby_steak",
+        "count": 1
+    }
+}
